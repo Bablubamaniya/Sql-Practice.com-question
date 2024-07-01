@@ -11,3 +11,4 @@
 ![image](https://github.com/Bablubamaniya/Sql-Practice.com-question/assets/94857315/96e04d5f-7db2-4f9e-9031-906a1e9da30c)
 ![image](https://github.com/Bablubamaniya/Sql-Practice.com-question/assets/94857315/c32449fd-25b3-4a08-aeb8-d0be13e28252)
 ![image](https://github.com/Bablubamaniya/Sql-Practice.com-question/assets/94857315/27d1ffb1-f347-4e68-ace6-4687eb3e9d84)
+![image](https://github.com/Bablubamaniya/Sql-Practice.com-question/assets/94857315/db13dd1d-58f3-4015-a437-aba66385231f)
