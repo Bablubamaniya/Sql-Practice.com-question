@@ -5,3 +5,4 @@
 ![image](https://github.com/Bablubamaniya/Sql-Practice.com-question/assets/94857315/2dd30be0-7af0-43bd-ad60-530f59e6b77a)
 ![image](https://github.com/Bablubamaniya/Sql-Practice.com-question/assets/94857315/2d277448-18db-4e8e-9635-c96fa72eeffd)
 ![image](https://github.com/Bablubamaniya/Sql-Practice.com-question/assets/94857315/60892481-40a1-458e-83fa-d1fa24fa6a67)
+![image](https://github.com/Bablubamaniya/Sql-Practice.com-question/assets/94857315/184ed72e-f0aa-4410-9a51-9baaa14dfab7)
